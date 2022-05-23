@@ -11,6 +11,7 @@ public class PUN2_PlayerSync : MonoBehaviourPun, IPunObservable
     //Values that will be synced over network
     Vector3 latestPos;
     Quaternion latestRot;
+    
 
     // Use this for initialization
     void Start()
@@ -22,6 +23,7 @@ public class PUN2_PlayerSync : MonoBehaviourPun, IPunObservable
         else
         {
             //Player is Remote, deactivate the scripts and object that should only be enabled for the local player
+            /*
             for (int i = 0; i < localScripts.Length; i++)
             {
                 localScripts[i].enabled = false;
@@ -30,6 +32,8 @@ public class PUN2_PlayerSync : MonoBehaviourPun, IPunObservable
             {
                 localObjects[i].SetActive(false);
             }
+            */
+          
         }
     }
 

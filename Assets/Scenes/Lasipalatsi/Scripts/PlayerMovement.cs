@@ -11,19 +11,21 @@ public class PlayerMovement : MonoBehaviour
     public float groundDistance = 0.4f;
     public LayerMask groundMask;
     public float jumpHeight= 3f;
-    public PhotonView photonView;
+    //public PhotonView photonView;
+    PhotonView photonView;
+    [SerializeField] private Camera m_Camera;
 
 
     bool isGrounded;
-    [SerializeField] private Camera m_Camera;
+    //[SerializeField] private Camera m_Camera;
 
     Vector3 velocity;
    
     // Start is called before the first frame update
     void Start()
     {
-       
-        if (!photonView.IsMine)
+       photonView = GetComponent<PhotonView>();
+       if (!photonView.IsMine)
         {
             Destroy(m_Camera);
         }
@@ -52,6 +54,12 @@ public class PlayerMovement : MonoBehaviour
 
             velocity.y+=gravity*Time.deltaTime;
             controller.Move(velocity*Time.deltaTime);
+        } 
+        else
+        {
+            
+            Destroy(m_Camera);
+        
         }
 
     }
