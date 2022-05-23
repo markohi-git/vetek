@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 70419a8d12983ea49ae48a19e696c9cd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - controller: {fileID: 6328817694381985085, guid: 7c7ea4707b83cad44b915284a25b2434, type: 3}
+  - groundCheck: {fileID: 4949989304242265462, guid: 7c7ea4707b83cad44b915284a25b2434, type: 3}
+  - photonView: {fileID: 4949989304242265353, guid: 7c7ea4707b83cad44b915284a25b2434, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

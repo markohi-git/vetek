@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: ce1f95a6adc3e62499475dc0044d6e95
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: af89549222b1a0a4ea4c174467763a17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04 - Default
+    second: {fileID: 2100000, guid: 92d8188a92afe4a40867dc34bc590d03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: 89ad75fdbd4b65f4ba25694acd3d0002, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default
+    second: {fileID: 2100000, guid: 34454fe110cfb2b42944134b10a66ed5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09 - Default
+    second: {fileID: 2100000, guid: 89cf7840800e13341a4100f7baa473bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 10 - Default
+    second: {fileID: 2100000, guid: 2af3d8678e29fd34991086bb4ae9f475, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 17 - Default
+    second: {fileID: 2100000, guid: 407347132e0dbc243a01fb7e18fc47fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 21 - Default
+    second: {fileID: 2100000, guid: c7fda0646ba2a4143b949aa2c85b1e64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Betoni
+    second: {fileID: 2100000, guid: ee84d6e26da5020459f2745ac868d97b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boksin_katto
+    second: {fileID: 2100000, guid: c109406e4ee18a7479fe8b360cfa93cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boksin_sisaseina
+    second: {fileID: 2100000, guid: 43d362a7b23c564409c10d41f0ad3605, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FramiFbuilding
+    second: {fileID: 2100000, guid: 6179def995584ee4081062314a509393, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Huonekalu_oranssi
+    second: {fileID: 2100000, guid: 2be46aaeaf9069d45aee520232f7cde0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Huonekalu_violetti
+    second: {fileID: 2100000, guid: cb2001007794b824e980fb85a338af89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ikkuna_Auditorio
+    second: {fileID: 2100000, guid: 22820c784a07829408c22a1dae800173, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ikkunateipit3
+    second: {fileID: 2100000, guid: 33cee4e641d1f844abdfbefee14d13f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infotiski
+    second: {fileID: 2100000, guid: 5446016112493e04c989edfe7bd4512a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jalka_Poydat_Tuolit_Metalli
+    second: {fileID: 2100000, guid: 1feb1872b1f21c14aa146265a33bc61b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jokiranta6
+    second: {fileID: 2100000, guid: f3616dadd00fb7c44b34c55364998be4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kellotaulu
+    second: {fileID: 2100000, guid: 3e750eb9e2deb8f469327c3f4840fedc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LASI kirkas
+    second: {fileID: 2100000, guid: 74ba3230b456e1b45ac4402cf56b63ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LASI punainen
+    second: {fileID: 2100000, guid: d0635dc578fa165499bf382705ceb662, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LASI sininen
+    second: {fileID: 2100000, guid: ed556dfc0cae07745a8d5fec2fcdea10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lasi
+    second: {fileID: 2100000, guid: 346629be84f56cc4f82dcc38390663c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lasi-Ikkunateippi_Y
+    second: {fileID: 2100000, guid: e12c87cbef833654bbb7eef7c7b6cb26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lasi007
+    second: {fileID: 2100000, guid: 6dda5722bdf3f8c43be7892f41ef0616, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lattialistat
+    second: {fileID: 2100000, guid: 335bc94709bad674cab9a47680c570a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAALI sininen
+    second: {fileID: 2100000, guid: 8a698d59eb1365040b88ee9c4b6aabe4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAALI tumharm
+    second: {fileID: 2100000, guid: a6020b1eaa14e544cb3901c58d12f99b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAALI valkoinen
+    second: {fileID: 2100000, guid: fe33b4341e3a3924fbbc21e7a29380c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "MAALI vihre\xE4"
+    second: {fileID: 2100000, guid: 1328a26aa1b65c741b82f42357e1c2fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MET rst
+    second: {fileID: 2100000, guid: c7e3f100e6db8274f91a5b2c558af449, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Maali_Musta
+    second: {fileID: 2100000, guid: e58b80d384e9f8c47b28c0a24f6b7ac7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Maali_Vihrea
+    second: {fileID: 2100000, guid: f1af621c9590a2e42a415b10f082f650, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Maali_Violetti
+    second: {fileID: 2100000, guid: 025eb5bfe30d26d419ca992d169e6a68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1519'
+    second: {fileID: 2100000, guid: 5bbc47119aa64354ea7ce03671d313fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1521'
+    second: {fileID: 2100000, guid: 521f974eda0a7844aaba23bbd82b11ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1522'
+    second: {fileID: 2100000, guid: 87a906bd2da90fc49a1875b44cacb9f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1524'
+    second: {fileID: 2100000, guid: f92c670520ca54b40a87e8574247cdf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1572'
+    second: {fileID: 2100000, guid: 28555f75012e9be498a8442ee89ce7c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Messubanneri_Sedu
+    second: {fileID: 2100000, guid: cdac431e7d3e13f45b00169aaa89d2ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 1e0e9b7700d84e84f9378ae9df3feaa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ohjelma
+    second: {fileID: 2100000, guid: 605ea42ca0233664da7bd2af65f2ef19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ovi_Keltainen_Auditorio
+    second: {fileID: 2100000, guid: bf8b4ea8b45e7d54789b1b37a9bcd533, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "PUU m\xE4nty"
+    second: {fileID: 2100000, guid: 8e09f4880f0564f4bb92fbbdf8079ee7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parketti
+    second: {fileID: 2100000, guid: 7954d5dcd98a05f43a9a39fb7c338d84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poyta_Valkoinen
+    second: {fileID: 2100000, guid: dd216f9a65e7d6e479ed0f33dc97b71b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rollup001
+    second: {fileID: 2100000, guid: 20545d606e59bd84fb4c5de9bfbe0aa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rollup002
+    second: {fileID: 2100000, guid: 70abb82aee338534d83174f291c6a982, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rollup003
+    second: {fileID: 2100000, guid: d5f09c9f4e646954080fb295768bdc4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rollup005
+    second: {fileID: 2100000, guid: 23ac5faeb9552104c87542de35d5b432, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rollup006
+    second: {fileID: 2100000, guid: a9a4c0029abb26149a7766b5329bac35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rollup_Sedu
+    second: {fileID: 2100000, guid: 8e2bd453469725b47b310b9437e5a3b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SeAMKlogo
+    second: {fileID: 2100000, guid: a9bffbd672c87db448766879a4c266f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SeduLogo
+    second: {fileID: 2100000, guid: 25ea3e3dab606924d92ab62a0d5b7b19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Seina_Auditorio
+    second: {fileID: 2100000, guid: 07b1abcde11668a4bbfd186639af1024, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Seinamaali_Harmaa
+    second: {fileID: 2100000, guid: b3dcbc33db4c33b469a4cbe10c625754, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Seinamaali_Pilarit_Musta
+    second: {fileID: 2100000, guid: 904ac3e20eda1144a937d0723b85b2ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Seinamaali_Valkoinen
+    second: {fileID: 2100000, guid: b134e6d0b01fca94b8d4f797af255317, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sohvamateriaali1
+    second: {fileID: 2100000, guid: eef92565ce335d5478d8469046f7e6d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sohvamateriaali2
+    second: {fileID: 2100000, guid: 9d02ae04827516b409f466aff0cdbe84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black1
+    second: {fileID: 2100000, guid: b691306e7e3f0234c80f1242a0704d28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frame2
+    second: {fileID: 2100000, guid: ed31a15d3cb55ca4fb7fbd06c5fae840, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass2
+    second: {fileID: 2100000, guid: f6ba6317f42f97c4ba2d322dece6faad, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Akvaario_lattia_autocolor_vert_flip
+    second: {fileID: 2800000, guid: 040309248451b7749a2b937d970966a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boksin_katto
+    second: {fileID: 2800000, guid: bd346c88724e5544690d8634b564a9ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boksin_sisaseina
+    second: {fileID: 2800000, guid: 93bcc63557611ec47aa22121251e7fa4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Etatyologo
+    second: {fileID: 2800000, guid: decb9c97a19c9274c940932db6d57fab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FramiF-alaslaskettu_katto
+    second: {fileID: 2800000, guid: c6d0f9cadbcd61148b329b2126e7015f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FramiF-haitariseina
+    second: {fileID: 2800000, guid: eafdde0273c71d34682a310ac7794d22, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FramiFloor02
+    second: {fileID: 2800000, guid: a8d0f5de6e6b6b04cb4a27c1adae4e6d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FramiFloor03
+    second: {fileID: 2800000, guid: 604e174588a306e4da9043f0f6c28091, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "Hissisein\xE4"
+    second: {fileID: 2800000, guid: f597de8a9c13e7b468c41dc720a8ac9e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: INFO
+    second: {fileID: 2800000, guid: 2b727ac387ce6b14c949a11002c3f6fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ikkunat_Auditorio
+    second: {fileID: 2800000, guid: 343a06e072f69ca4a80aa482b14c60da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ikkunateipit2
+    second: {fileID: 2800000, guid: d8f9c3546abb5c248bd1fbc0a0cdd7db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ikkunateippi3
+    second: {fileID: 2800000, guid: 88bd442282132dc4f95666363d3e3430, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ikkunateippi3opacitymap
+    second: {fileID: 2800000, guid: 9ebf294de26d93c49b39ce9c15ab119d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ikkunateippi_Y
+    second: {fileID: 2800000, guid: c547bf122e1ca7b4f9a975bc72bb7aa4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jokiranta6
+    second: {fileID: 2800000, guid: 7fe8b2ab4f45ef343b25db1c6642fe81, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Keltaiset_ovet
+    second: {fileID: 2800000, guid: 332dd1ee404dcaa4da67b9ca57dcca18, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lasipalatsi_katto
+    second: {fileID: 2800000, guid: e692aa5ba4651114d9f064b2e9b6dd1a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Messubanneri_digi
+    second: {fileID: 2800000, guid: 5668df3a104ccbb4795155a4bced62c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ohjelma
+    second: {fileID: 2800000, guid: a442a9bcbf91a1e4a93fc8401275023c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ohjelma_opacitycolor
+    second: {fileID: 2800000, guid: 276d63b34bf4ead408cb8e01fa96e764, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rollup001
+    second: {fileID: 2800000, guid: 8db2433c9bac319458cf570ad06bce60, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rollup002
+    second: {fileID: 2800000, guid: eca544befd3bc774290606a52ee3a0b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rollup003
+    second: {fileID: 2800000, guid: b8527709d325000419d028582a20f5a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rollup004
+    second: {fileID: 2800000, guid: c2c3b57e58e524b4a91d484390a057f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rollup005
+    second: {fileID: 2800000, guid: cd1f3c03e29c1c34899932a7c1dcd354, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rollup006
+    second: {fileID: 2800000, guid: 4e399ec12c586214bbb6efea435dc3d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Seamk logo
+    second: {fileID: 2800000, guid: e97485660a05290489b1be195207ded2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sign001
+    second: {fileID: 2800000, guid: 74cff818adea38648a0ff8d82d652b3a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aikuisten rollup_final2
+    second: {fileID: 2800000, guid: 4dcb871a68b915c4bbaf19c1b3cf1bf2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: betoni_muotti_tadao_ando
+    second: {fileID: 2800000, guid: 87559ff965ac78443b26311c2f4e00bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: clock_face
+    second: {fileID: 2800000, guid: 7b31eb8f3721efc46bbcacedbc167fa3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: frami-vaaka
+    second: {fileID: 2800000, guid: bbd8efb70a283304888b2bf5bcd2d1b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: outd_019c
+    second: {fileID: 2800000, guid: abec04d65729c8d419bd787a2994931d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sedu_logo
+    second: {fileID: 2800000, guid: 95e4c61454c2baa4e8bca570e2a90fc4, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
