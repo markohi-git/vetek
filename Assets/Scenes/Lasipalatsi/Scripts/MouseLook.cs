@@ -10,16 +10,10 @@ public class MouseLook : MonoBehaviour
     public Transform playerBody;
     public PhotonView photonView;
     float xRotation=0f;
-    //[SerializeField] private Camera m_Camera;
     
     // Start is called before the first frame update
     void Start()
     {
-      
-       /* if (!photonView.IsMine)
-        {
-            Destroy(m_Camera);
-        }*/
        Cursor.lockState = CursorLockMode.Locked;
     }
 
